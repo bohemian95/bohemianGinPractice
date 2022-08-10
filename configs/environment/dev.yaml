@@ -1,0 +1,12 @@
+environment: dev
+
+server:
+  name: bohemian practice
+  port: 8080
+
+database:
+  type: mysql
+  name: bohemian_database
+  host: 127.0.0.1:3306
+  username: root
+  password: bohemian@1234
